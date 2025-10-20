@@ -1,0 +1,11 @@
+{
+  "plugins": {
+    "blink.cmp": {
+      "rev": "327fff9",
+      "version": ">=0.0.0"
+    },
+    "lazydev.nvim": [],
+    "nvim-lspconfig": [],
+    "which-key.nvim": []
+  }
+}
